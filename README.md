@@ -1,2 +1,32 @@
 # Marketing-Campaign-Analysis
 An excel analysis of a marketing campaign carried out for insights about various campaign channels used during the previous year campaign period
+##  Project Overview
+
+### Objectives
+ 1. To understand product interest among customers
+ 2. To identify factors influencing successful and failed calls
+ 3. To monitor call trends over time
+ 4. To measure the performance of call center agents
+ 5. To analyze customer interaction patterns across different agents
+ 6. To make decisions for improving sales and effectiveness of marketing
+### Insights from Analysis
+ 1. High call volume does not always equate to call success rate. Call quality is more paramount than call quantity
+ 2. Agent productivity varies significantly
+ 3. Call abandonment is a major challenge
+ 4. Customer interest in products is uneven. Certain products are discussed more during calls, this suggest more demand for some products
+### Tools Used
+. Microsoft Excel
+. Data Cleaning
+. KPI Tracking
+. Pivot tables
+. Pivot Charts
+### Recommendations
+ . Promote high demand products. Products frequently discussed on call by customers should receive more marketing support
+ 
+ . Address causes of abandoned calls. The most common cause of abandoned calls is technical issues. This needs to be addressed
+ 
+ . Review call distribution. Number of calls received by agents should be evenly distributed to avoid burnout and increase productivity 
+
+ . States that high volume calls come from should be the target audience for the next marketing campaign
+
+ . Agents with low successs rate should undergo more profession training in customer relationship and sales communication
