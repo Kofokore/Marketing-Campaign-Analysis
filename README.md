@@ -5,8 +5,8 @@ This project focuses on analyzing the performance of various marketing channels 
 ### Objectives
  1. To track marketing reach over time. An overwiew of impressions per month to identify seasonality in campaign performance
  2. To evaluate marketing channel performance in terms of impressons, cost, revenue and conversion rate
- 3. To monitor call trends over time
- 4. To measure the performance of call center agents
+ 3. To identify highest performing channel per month
+ 4. Risk to reward assessment to identify the profitable channels and non-profitable channels
  5. To analyze customer interaction patterns across different agents
  6. To make decisions for improving sales and effectiveness of marketing
 ### Insights from Analysis
