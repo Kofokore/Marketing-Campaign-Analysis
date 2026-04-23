@@ -9,7 +9,7 @@ This project focuses on analyzing the performance of various marketing channels 
  4. Risk to reward assessment to identify the profitable channels and non-profitable channels
  5. To provide data driven insights for the optimization of marketing campaign methods and to influence budget allocation
  ### Insights from Analysis
- 1. High call volume does not always equate to call success rate. Call quality is more paramount than call quantity
+ 1. Influencers marketing channel has the highest impression but the least conversion rate. This indicates strong visibility but weak engagement.
  2. Agent productivity varies significantly
  3. Call abandonment is a major challenge
  4. Customer interest in products is uneven. Certain products are discussed more during calls, this suggest more demand for some products
