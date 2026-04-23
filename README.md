@@ -3,8 +3,8 @@ An excel analysis of a marketing campaign carried out for insights about various
 ##  Project Overview
 This project focuses on analyzing the performance of various marketing channels to evaluate their effectiveness towards customer engagement, conversions, and revenue. Five key marketing channels are covered which are Email, Influencer, Search, Social and Display. Key performance indicators such as total cost and revenue, total impressions, total monthly impressions from January to December, channels conversion rates, cost versus revenue for each channel and highest-performing channels per month. These metrics provides a comprehensive view of how each channel contributes to overall marketing success. The goal of this project is to generate actionable insights that can be utilized to optimize marketing strategies, improve budget allocation for different marketing channels, and enhance overall campaign performance.
 ### Objectives
- 1. To understand product interest among customers
- 2. To identify factors influencing successful and failed calls
+ 1. To track marketing reach over time. An overwiew of impressions per month to identify seasonality in campaign performance
+ 2. To evaluate marketing channel performance in terms of impressons, cost, revenue and conversion rate
  3. To monitor call trends over time
  4. To measure the performance of call center agents
  5. To analyze customer interaction patterns across different agents
