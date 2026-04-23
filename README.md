@@ -16,10 +16,8 @@ This project focuses on analyzing the performance of various marketing channels 
  5. Only 12.1% of total clicks were actually turned into actual conversions. This indicates that more compelling marketing campaigns needs to be made.
 ### Tools Used
 . Microsoft Excel
-. Data 
-. KPI Tracking
 . Pivot tables
-. Pivot Charts
+. Dashboard design
 ### Recommendations
  . Promote high demand products. Products frequently discussed on call by customers should receive more marketing support
  
