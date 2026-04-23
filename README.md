@@ -12,11 +12,11 @@ This project focuses on analyzing the performance of various marketing channels 
  1. Influencers marketing channel has the highest impression but the least conversion rate. This indicates strong visibility but weak engagement.
  2. The total impressions for february and september are significantly lower than other months.
  3. The ratio of cost to revenue is on a positive for all marketing channels
- 4. Only one single month had socials marketing channel as the highest impression channel. However, socials has the highest conversion rate. This indicates
-that more impressions will translate into more conversion rate
+ 4. Only one single month had socials marketing channel as the highest impression channel. However, socials has the highest overall conversion rate. This indicates that more impressions will translate into more conversion rate
+ 5. Only 12.1% of total clicks were actually turned into actual conversions. This indicates that more compelling marketing campaigns needs to be made.
 ### Tools Used
 . Microsoft Excel
-. Data Cleaning
+. Data 
 . KPI Tracking
 . Pivot tables
 . Pivot Charts
