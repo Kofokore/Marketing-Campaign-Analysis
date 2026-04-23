@@ -7,9 +7,8 @@ This project focuses on analyzing the performance of various marketing channels 
  2. To evaluate marketing channel performance in terms of impressons, cost, revenue and conversion rate
  3. To identify highest performing channel per month
  4. Risk to reward assessment to identify the profitable channels and non-profitable channels
- 5. To analyze customer interaction patterns across different agents
- 6. To make decisions for improving sales and effectiveness of marketing
-### Insights from Analysis
+ 5. To provide data driven insights for the optimization of marketing campaign methods and to influence budget allocation
+ ### Insights from Analysis
  1. High call volume does not always equate to call success rate. Call quality is more paramount than call quantity
  2. Agent productivity varies significantly
  3. Call abandonment is a major challenge
