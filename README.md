@@ -11,7 +11,7 @@ This project focuses on analyzing the performance of various marketing channels 
  ### Insights from Analysis
  1. Influencers marketing channel has the highest impression but the least conversion rate. This indicates strong visibility but weak engagement.
  2. The total impressions for february and september are significantly lower than other months.
- 3. 
+ 3. The ratio of cost to revenue is on a positive for all marketing channels
  4. Customer interest in products is uneven. Certain products are discussed more during calls, this suggest more demand for some products
 ### Tools Used
 . Microsoft Excel
