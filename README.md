@@ -23,7 +23,7 @@ This project focuses on analyzing the performance of various marketing channels 
  
  . More cost needs to be put into socials marketing campaign. The previous year campaign generated the least impression but most conversion rate
  
- . Review call distribution. Number of calls received by agents should be evenly distributed to avoid burnout and increase productivity 
+ . There is a need for channel integration as multi channel strategy can be adopted. 
 
  . States that high volume calls come from should be the target audience for the next marketing campaign
 
