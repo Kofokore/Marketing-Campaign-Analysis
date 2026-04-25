@@ -23,7 +23,7 @@ This project focuses on analyzing the performance of various marketing channels 
  
  . More cost needs to be put into socials marketing campaign. The previous year campaign generated the least impression but most conversion rate
  
- . There is a need for channel integration as multi channel strategy can be adopted. Display and Email marketing channel can be used for awareness, influencers can be used for customers deliberation and weighing options, search and social marketing channel can be used for conversion
+ . There is a need for channel integration as multi channel strategy can be adopted. Display and Email marketing channel can be used for awareness, Influencers can be used for customers deliberation and weighing options, Search and Social marketing channel can be used for conversion
 
  . States that high volume calls come from should be the target audience for the next marketing campaign
 
