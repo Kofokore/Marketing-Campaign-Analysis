@@ -25,6 +25,5 @@ This project focuses on analyzing the performance of various marketing channels 
  
  . There is a need for channel integration as multi channel strategy can be adopted. Display and Email marketing channel can be used for awareness, Influencers can be used for customers deliberation and weighing options, Search and Social marketing channel can be used for conversion
 
- . States that high volume calls come from should be the target audience for the next marketing campaign
+ . Audience reach needs to be expanded for more revenue as cost for previous year got doubled in revenue
 
- . Agents with low successs rate should undergo more profession training in customer relationship and sales communication
