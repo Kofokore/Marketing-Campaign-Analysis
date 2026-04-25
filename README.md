@@ -19,7 +19,7 @@ This project focuses on analyzing the performance of various marketing channels 
 . Pivot tables
 . Dashboard design
 ### Recommendations
- . Promote high demand products. Products frequently discussed on call by customers should receive more marketing support
+ . Marketing contents made by influencers needs to be reviewed. The contents have high impressions but weak engagement. There is a need for more engaging contents.
  
  . Address causes of abandoned calls. The most common cause of abandoned calls is technical issues. This needs to be addressed
  
