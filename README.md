@@ -19,11 +19,11 @@ This project focuses on analyzing the performance of various marketing channels 
 . Pivot tables
 . Dashboard design
 ### Recommendations
- . Marketing contents made by influencers needs to be reviewed. The contents have high impressions but weak engagement. There is a need for more engaging contents.
+ . Marketing contents made by influencers needs to be reviewed. The contents have high impressions but weak engagement. There is a need for more engaging contents
  
  . More cost needs to be put into socials marketing campaign. The previous year campaign generated the least impression but most conversion rate
  
- . There is a need for channel integration as multi channel strategy can be adopted. 
+ . There is a need for channel integration as multi channel strategy can be adopted. Display and Email marketing channel can be used for awareness, influencers can be used for customers deliberation and weighing options, search and social marketing channel can be used for conversion
 
  . States that high volume calls come from should be the target audience for the next marketing campaign
 
