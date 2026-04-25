@@ -21,7 +21,7 @@ This project focuses on analyzing the performance of various marketing channels 
 ### Recommendations
  . Marketing contents made by influencers needs to be reviewed. The contents have high impressions but weak engagement. There is a need for more engaging contents.
  
- . Address causes of abandoned calls. The most common cause of abandoned calls is technical issues. This needs to be addressed
+ . More cost needs to be put into socials marketing campaign. The previous year campaign generated the least impression but most conversion rate
  
  . Review call distribution. Number of calls received by agents should be evenly distributed to avoid burnout and increase productivity 
 
