@@ -17,11 +17,12 @@ This project focuses on analyzing the performance of various marketing channels 
 ### Tools Used
 . Microsoft Excel
 . Pivot tables
+. Pivot charts
 . Dashboard design
 ### Recommendations
  . Marketing contents made by influencers needs to be reviewed. The contents have high impressions but weak engagement. There is a need for more engaging contents
  
- . More cost needs to be put into socials marketing campaign. The previous year campaign generated the least impression but most conversion rate
+ . More cost needs to be put into social marketing campaign. The previous year campaign generated the least impression but most conversion rate
  
  . There is a need for channel integration as multi channel strategy can be adopted. Display and Email marketing channel can be used for awareness, Influencers can be used for customers deliberation and weighing options, Search and Social marketing channel can be used for conversion
 
